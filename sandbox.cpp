@@ -12,9 +12,9 @@
 using namespace std;
 using namespace std::chrono;
 int randomindex = rand() % 7;
-//INSERT YOUR ANSWER ON LINE 16 
-//INSERT YOUR ANSWER ON LINE 16 
-//INSERT YOUR ANSWER ON LINE 16 
+//INSERT YOUR ANSWER ON LINE 18 
+//INSERT YOUR ANSWER ON LINE 18 
+//INSERT YOUR ANSWER ON LINE 18 
 string ans = "shit";
 int tries = 10;
 char corchar;
